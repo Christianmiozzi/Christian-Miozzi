@@ -3,8 +3,8 @@ Compito Angular
 Questo progetto è fatto in Angular e serve a gestire una lista di clienti. Puoi aggiungere, modificare e cancellare i clienti usando dei form (moduli). Il progetto usa un servizio per comunicare con il backend e ottenere i dati dei clienti.
 
 Componenti
-ListaComponent 
-Questo componente mostra una lista di clienti, ti permette di modificarli o cancellarli, e ha un form per aggiungere nuovi clienti o aggiornare quelli esistenti. Si collega al servizio che gestisce i dati dei clienti.
+
+ListaComponent, questo componente mostra una lista di clienti, ti permette di modificarli o cancellarli, e ha un form per aggiungere nuovi clienti o aggiornare quelli esistenti. Si collega al servizio che gestisce i dati dei clienti.
 
 Funzionalità
 
